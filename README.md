@@ -9,7 +9,7 @@ A classic Brick Breakout game where the ball bounces after every hit, built usin
 - **Ball Physics**: The ball bounces off the paddle, bricks, and walls.
 - **Score Tracking**: Earn points for every brick you break.
 - **Lives System**: You have a limited number of lives to complete the game.
-- **Interactive Gameplay**: Control the paddle using the keyboard to keep the ball in play.
+- **Interactive Gameplay**: Control the paddle using the keyboard to keep the ball in play
 
 ---
 
