@@ -23,7 +23,7 @@ A classic Brick Breakout game where the ball bounces after every hit, built usin
 2. Navigate to the project directory:
 
 ```bash
-cd brick-breakout
+cd Brick-Breakout-Game
 ```
 
 3. Install the required dependencies (Pygame):
@@ -35,7 +35,7 @@ pip install pygame
 4. Run the game:
 
 ```bash
-python breakout.py
+python main.py
 ```
 ---
 

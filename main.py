@@ -10,7 +10,7 @@ screen = Screen()
 
 screen.bgcolor("black")
 screen.setup(width=800, height=600)
-screen.title("Mik's Breakout Game")
+screen.title("Rag's Brick Breakout Game")
 screen.tracer(0)
 
 # create Scoreboard
